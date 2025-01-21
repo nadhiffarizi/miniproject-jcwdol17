@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Purwadhika Final Project Repository
+
+# Purwadhika Mini Project 
 
 This project uses React.js with NextJS for the frontend, Express.js for the backend, and TurboRepo for monorepo management, facilitating rapid development of a scalable web application with streamlined collaboration and efficient server-client interactions.
 
